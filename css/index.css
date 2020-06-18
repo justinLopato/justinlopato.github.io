@@ -1,5 +1,10 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(227, 233, 231);
+}
+
+#page {
+    width: 60%;
+    margin: 0 auto;
 }
 
 #header {
