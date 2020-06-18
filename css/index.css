@@ -5,6 +5,7 @@ body {
 #page {
     width: 60%;
     margin: 0 auto;
+    outline-width: 1px;
     outline-color: black;
 }
 
