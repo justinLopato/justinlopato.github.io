@@ -5,8 +5,7 @@ body {
 #page {
     width: 60%;
     margin: 0 auto;
-    border-width: 1px;
-    border-color: black;
+    background-color: black;
 }
 
 /* #header {
