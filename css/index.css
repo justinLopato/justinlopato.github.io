@@ -4,29 +4,26 @@ body {
     color: #fff;
 }
 
-#pfp {
+#picture {
     width: 80px;
     height: 80px;
     border: 1px solid #aaa;
-    top: 20px;
-    left: 20px;
-    bottom: 20px;
-    position: relative;
+    display: inline-block;
 }
 
 #name {
     display: inline-block;
+    vertical-align: top;
     position: relative;
-    left: 40px;
-    vertical-align: super;
+    left: 20px;
+    top: 7px;
 }
 
 #header {
     max-width: 50%;
     margin: 8px auto;
     background-color: #222;
-    padding: 5px;
-    height: 120px;
+    padding: 20px;
     border: 1px solid #aaa;
 }
 
@@ -34,7 +31,7 @@ body {
     max-width: 50%;
     margin: 8px auto;
     background-color: #222;
-    padding: 5px;
+    padding: 20px;
     border: 1px solid #aaa;
 }
 
@@ -42,7 +39,7 @@ body {
     max-width: 50%;
     margin: 8px auto;
     background-color: #222;
-    padding:  5px;
+    padding:  20px;
     border: 1px solid #aaa;
 }
 
