@@ -1,13 +1,26 @@
 body {
-    background-color: #111;
+    background-color: #ffffe8;
     font-family: 'gravitybold_italicl', sans-serif;
-    color: #fff;
+    color: #111;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    width: 25%;
+    text-align: left;
+}
+
+td {
+    text-align: left;
 }
 
 #picture {
     width: 80px;
     height: 80px;
-    border: 1px solid #aaa;
+    border: 1px solid #111;
     display: inline-block;
 }
 
@@ -22,24 +35,32 @@ body {
 #header {
     max-width: 50%;
     margin: 8px auto;
-    background-color: #222;
+    background-color: #E5E5D0;
     padding: 20px;
-    border: 1px solid #aaa;
+    border: 1px solid #111;
 }
 
-#body {
+#x {
     max-width: 50%;
     margin: 8px auto;
-    background-color: #222;
+    background-color: #E5E5D0;
     padding: 20px;
-    border: 1px solid #aaa;
+    border: 1px solid #111;
 }
 
-#footer {
+#y {
     max-width: 50%;
     margin: 8px auto;
-    background-color: #222;
+    background-color: #E5E5D0;
     padding:  20px;
-    border: 1px solid #aaa;
+    border: 1px solid #111;
+}
+
+#z {
+    max-width: 50%;
+    margin: 8px auto;
+    background-color: #E5E5D0;
+    padding:  20px;
+    border: 1px solid #111;
 }
 
